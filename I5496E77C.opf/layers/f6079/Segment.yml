@@ -1,0 +1,9 @@
+id: bade03b1b1614c58b94cb489bc8d6502
+annotation_type: Segment
+revision: '00001'
+annotations:
+  40df84c0f33e40b2aa7f1010133b4561:
+    span:
+      start: 0
+      end: 508
+    metadata: {}
